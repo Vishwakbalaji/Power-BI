@@ -32,3 +32,10 @@ Variable Notes
   * Parent = mother, father
   * Child = daughter, son, stepdaughter, stepson
   * Some children travelled only with a nanny, therefore parch=0 for them.
+
+The Dashboard has 4 charts:
+
+  1. Survival Rate by Gender: Which aims at showing the gender wise survived individually to see in a bar chart.
+  2. Survival Rate by PassengerClass: Which aims to view it individually by passengers class wise survival in a bar chart.
+  3. Survival Rate by Age and Gender: One more gender and age wise to see the survival plot.
+  4. Survival Rate by Embarked: This is were the people boarded from. In this 70% of them are boarded from Southampton. Depending on this the survival rate is ploted.
