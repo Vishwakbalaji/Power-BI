@@ -7,7 +7,7 @@ Dashboard URL: https://app.powerbi.com/groups/me/reports/c27e18ce-6225-45ae-a0d4
 ## About the data:
 This dataset has funding information of the Indian startups from January 2015 to August 2017. It includes columns with the date funded, the city the startup is based out of, the names of the funders, and the amount invested (in USD).
 
-# This notebook explores the analysis of indian startup funding and basically gives answer of following questions :
+# This dashboard explores the analysis of indian startup funding and basically gives answer of following questions :
 
 1. How does the funding ecosystem change with time ?(Number of funding per month)
 2. How much funds does startups generally get in India ?(maximum funding, minimum funding , average funding and number of fundings)
